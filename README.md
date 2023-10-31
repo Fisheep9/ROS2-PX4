@@ -130,7 +130,7 @@ ros2 launch px4_ros_com sensor_combined_listener.launch.py
 
 Dev Tool: install extension `Dev Container` and `Docker` , run a container,  press `F1`  select `Dev-Containers: Attach to Running Container` 
 
-![](image/1.png)
+![1](image/1.png)
 
 update   `~/src/PX4-Autopilot/src/modules/uxrce_dds_client/dds_topics.yaml`
 
@@ -141,7 +141,7 @@ add content:
     type: px4_msgs::msg::ActuatorMotors
 ```
 
-![image-20231004084825946](/home/hilab/.config/Typora/typora-user-images/image-20231004084825946.png)
+![2](image/2.png)
 
 ```sh
 source ~/ws_sensor_combined/install/local_setup.bash
@@ -344,9 +344,9 @@ python3 ~/ws_sensor_combined/src/test_actuator_motors.py
 
 you can set the motor 1 thrust to 60% and comment the rest (motor 2\3\4) to let three of them rotate at arm speed
 
-![image-20231004205652990](/home/hilab/.config/Typora/typora-user-images/image-20231004205652990.png)
+![3](image/3.png)
 
-![image-20231004210205706](/home/hilab/.config/Typora/typora-user-images/image-20231004210205706.png)
+![4](image/4.png)
 
 - Tip1
 
