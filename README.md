@@ -130,7 +130,7 @@ ros2 launch px4_ros_com sensor_combined_listener.launch.py
 
 Dev Tool: install extension `Dev Container` and `Docker` , run a container,  press `F1`  select `Dev-Containers: Attach to Running Container` 
 
-![image-20231002223458648](image/1.png)
+![](image/1.png)
 
 update   `~/src/PX4-Autopilot/src/modules/uxrce_dds_client/dds_topics.yaml`
 
