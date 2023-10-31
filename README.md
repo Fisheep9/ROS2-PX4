@@ -370,7 +370,7 @@ you can set the motor 1 thrust to 60% and comment the rest (motor 2\3\4) to let 
 
   
 
-  ![image-20231004184026332](/home/hilab/.config/Typora/typora-user-images/image-20231004184026332.png)
+  ![5](image/5.png)
 
   
 
